@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Johnnywho0801
-- 👀 I’m interested in technical writing/translation
-- 🌱 I’m currently learning translation & interpreting 
-- 💞️ I’m looking to collaborate on contributing to technical documentation
+# **Hi, there**
+👀I’m Johnny Hu, currently an MTI student|translator
+I’m interested in technical writing/translation
+
+I love video games🎮, working out💪 and badminton🏃
+- 💞️ I’m looking to  contributing to technical documentation
 - 📫 How to reach me 3299797845@qq.com
 
 <!---
